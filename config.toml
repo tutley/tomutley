@@ -1,0 +1,55 @@
+baseURL = "https://tomutley.com"
+languageCode = "en-us"
+title = "Tom Utley"
+copyright = "(c) 2017 Tom Utley"
+
+metaDataFormat = "toml"
+theme = "hyde-y"
+paginate = 10
+paginatePath = "page"
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    code = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    topic = "topics"
+
+[author]
+    name = "Tom Utley"
+    email = "tom@tomutley.com"
+
+[params]
+  googleAnalytics = "UA-111424245-1" 
+  # You can use markdown here.
+  brand = "Tom Utley"
+  topline = "A problem solver."
+  footline = "Let's go."
+
+  # Sidebar position
+  # false, true, "left", "right"
+  sidebar = "left"
+
+  # Text for the top menu link, which goes the root URL for the site.
+  # Default (if omitted) is "Home".
+  home = "Home"
+
+  # Select a syntax highight.
+  # Check the static/css/highlight directory for options.
+  highlight = "default"
+
+  # Sidebar social links.
+  github = "tutley" # Your Github profile ID
+  #bitbucket = "" # Your Bitbucket profile ID
+  linkedin = "tomutley" # Your LinkedIn profile ID (from public URL)
+  #googleplus = "" # Your Google+ profile ID
+  #facebook = "" # Your Facebook profile ID
+  #twitter = "" # Your Twitter profile ID
+  #youtube = ""  # Your Youtube channel ID
+  #flattr = ""  # populate with your flattr uid
+  #flickr = "" # Your Flickr profile ID
+  #vimeo = "" # Your Vimeo profile ID
+
+  # Sidebar RSS link: will only show up if there is a RSS feed
+  # associated with the current page
+  rss = true

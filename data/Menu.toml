@@ -1,0 +1,30 @@
+[0services]
+    Name = "Services"
+    URL = "/services"
+
+[1resume]
+    Name = "Resume"
+    URL = "https://www.cakeresume.com/tom-utley"
+
+[2foundirl]
+    Name = "FoundIRL"
+    URL = "https://foundirl.com"
+    
+[3uttles]
+    Name = "Uttles"
+    URL = "https://uttles.com"
+  
+[posts]
+    Name = "Posts"
+    Title = "Show list of posts"
+    URL = "/post"
+
+[topics]
+  Name = "Topics"
+  Title = "Show list of topics"
+  URL = "/topics"
+
+[tags]
+    Name = "Tags"
+    Title = "Show list of tags"
+    URL = "/tags"
