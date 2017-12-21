@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tom Utley</title>
+    <link>https://tomutley.com/tags/</link>
+    <description>Recent content in Tags on Tom Utley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>tom@tomutley.com (Tom Utley)</managingEditor>
+    <webMaster>tom@tomutley.com (Tom Utley)</webMaster>
+    <copyright>(c) 2017 Tom Utley</copyright>
+    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tomutley.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>https://tomutley.com/tags/first/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <author>tom@tomutley.com (Tom Utley)</author>
+      <guid>https://tomutley.com/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://tomutley.com/tags/hugo/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <author>tom@tomutley.com (Tom Utley)</author>
+      <guid>https://tomutley.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta</title>
+      <link>https://tomutley.com/tags/meta/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <author>tom@tomutley.com (Tom Utley)</author>
+      <guid>https://tomutley.com/tags/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://tomutley.com/tags/welcome/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <author>tom@tomutley.com (Tom Utley)</author>
+      <guid>https://tomutley.com/tags/welcome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
