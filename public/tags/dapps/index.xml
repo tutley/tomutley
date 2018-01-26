@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Tom Utley</title>
-    <link>https://tomutley.com/post/</link>
-    <description>Recent content in Posts on Tom Utley</description>
+    <title>Dapps on Tom Utley</title>
+    <link>https://tomutley.com/tags/dapps/</link>
+    <description>Recent content in Dapps on Tom Utley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>tom@tomutley.com (Tom Utley)</managingEditor>
@@ -11,7 +11,7 @@
     <copyright>(c) 2018 Tom Utley</copyright>
     <lastBuildDate>Mon, 08 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://tomutley.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tomutley.com/tags/dapps/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,17 +22,6 @@
       <guid>https://tomutley.com/2018/01/08/decentralization/</guid>
       <description>I am a big fan of decentralization. I believe that this is the best model for human interaction and it applies to so many things. Recently I discovered decentralized applications and now I&amp;rsquo;m trying to learn everything I can about them because I think they have tremendous potential.
 What is decentralization? When I talk about decentralization, I&amp;rsquo;m referring to taking decision making power and authority from one central source, or collection of sources, and spreading it out to much smaller and less powerful units, eventually spreading all the way out to the individual.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://tomutley.com/2017/12/20/my-first-post/</link>
-      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-      <author>tom@tomutley.com (Tom Utley)</author>
-      <guid>https://tomutley.com/2017/12/20/my-first-post/</guid>
-      <description>So, this is Hugo.
-I decided to try my hand at the new and exciting world of static site generation using the golang-based Hugo.
-This is it, the skeleton for my new site. Hopefully I&amp;rsquo;ll add some stuff here in the future that is exciting and interesting.</description>
     </item>
     
   </channel>

@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>tom@tomutley.com (Tom Utley)</managingEditor>
     <webMaster>tom@tomutley.com (Tom Utley)</webMaster>
-    <copyright>(c) 2017 Tom Utley</copyright>
+    <copyright>(c) 2018 Tom Utley</copyright>
     <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tomutley.com/topics/index.xml" rel="self" type="application/rss+xml" />
@@ -20,6 +20,15 @@
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
       <author>tom@tomutley.com (Tom Utley)</author>
       <guid>https://tomutley.com/topics/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>https://tomutley.com/topics/thoughts/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      <author>tom@tomutley.com (Tom Utley)</author>
+      <guid>https://tomutley.com/topics/thoughts/</guid>
       <description></description>
     </item>
     

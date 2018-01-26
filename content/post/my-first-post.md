@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 
-So, this is [Hugo](https://gohugo.io/)
+So, this is [Hugo](https://gohugo.io/).
 
 I decided to try my hand at the new and exciting world of static site generation using the golang-based Hugo.
 
